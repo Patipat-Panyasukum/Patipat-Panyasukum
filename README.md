@@ -1,4 +1,4 @@
-Hi 👋 My name is Patipat Panyasukum
+Hi 👋 My name is Patipat Panyasukum (Heng)
 ===================================
 
 HR Analyst | Data Scientist
