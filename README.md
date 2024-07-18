@@ -19,7 +19,7 @@ In today's rapidly evolving workplace landscape, the intersection of Human Resou
 ### Languages:
 | Python3 | R | JS | SQLite |
 |----------|----------|----------|-----|
-|  <img src="https://2019.th.pycon.org/pycon2018/pycon-logo.svg" title="Python"  alt="Python" width="70" height="60"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-plain.svg" title="R"  alt="R" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original-wordmark.svg" title="SQL" alt="SQL" width="55" height="55"/>|  <img 
+|  <img src="https://2019.th.pycon.org/pycon2018/pycon-logo.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-plain.svg" title="R"  alt="R" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original-wordmark.svg" title="SQL" alt="SQL" width="55" height="55"/>|  <img 
 
 ### Best frameworks and main libraries for Python3:
 
@@ -29,9 +29,9 @@ In today's rapidly evolving workplace landscape, the intersection of Human Resou
 
 ### Best frameworks and main libraries for R programming:
 
-| Tidyverse | dplyr | ggplot2 | tibble | lubridate |
+| Tidyverse |  dplyr  | ggplot2 | tibble | lubridate |
 |----------|----------|----------|----------|----------|
-|  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTGFSGfta9RFK8XaTiAExRkxz3aephY3qIHw&s" title="Tidyverse"  alt="Tidyverse" width="55" height="55"/>|  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrSKZYgJeRqlKEEU7VAcEg8TRD_c2QDI3cbw&s" title="dplyr" alt="dplyr" width="55" height="55"/>|  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Ggplot2_hex_logo.png" title="ggplot2" alt="ggplot2" width="55" height="55"/> |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQAEzJnCwBIZyqIHD3cTLdY8s6ZD6ib6NYw&s" title="tibble" alt="tibble" width="55" height="55"/>| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2Bw_YRR3-85sYTye6JiTYaTuOPKudqdn5g&s" title="lubridate" alt="lubridate" width="55" height="55"/>| <img   
+|  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTGFSGfta9RFK8XaTiAExRkxz3aephY3qIHw&s" title="Tidyverse"  alt="Tidyverse" width="53" height="55"/>|  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrSKZYgJeRqlKEEU7VAcEg8TRD_c2QDI3cbw&s" title="dplyr" alt="dplyr" width="58" height="55"/>|  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Ggplot2_hex_logo.png" title="ggplot2" alt="ggplot2" width="55" height="55"/> |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQAEzJnCwBIZyqIHD3cTLdY8s6ZD6ib6NYw&s" title="tibble" alt="tibble" width="55" height="55"/>| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2Bw_YRR3-85sYTye6JiTYaTuOPKudqdn5g&s" title="lubridate" alt="lubridate" width="55" height="55"/>| <img   
 
 ### My tools for Data Manipulation & Visualisation:
 
