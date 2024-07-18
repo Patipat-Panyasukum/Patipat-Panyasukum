@@ -27,6 +27,12 @@ In today's rapidly evolving workplace landscape, the intersection of Human Resou
 |----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img                                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" title="scipy" alt="scipy" width="55" height="55"/>| <img   
 
+### Best frameworks and main libraries for R programming:
+
+| Tidyverse | dplyr | ggplot2 | tibble | lubridate |
+|----------|----------|----------|----------|----------|
+|  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTGFSGfta9RFK8XaTiAExRkxz3aephY3qIHw&s" title="Tidyverse"  alt="Tidyverse" width="55" height="55"/>|  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrSKZYgJeRqlKEEU7VAcEg8TRD_c2QDI3cbw&s" title="dplyr" alt="dplyr" width="55" height="55"/>|  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Ggplot2_hex_logo.png" title="ggplot2" alt="ggplot2" width="55" height="55"/> |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQAEzJnCwBIZyqIHD3cTLdY8s6ZD6ib6NYw&s" title="tibble" alt="tibble" width="55" height="55"/>| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2Bw_YRR3-85sYTye6JiTYaTuOPKudqdn5g&s" title="lubridate" alt="lubridate" width="55" height="55"/>| <img   
+
 ### My tools for Data Manipulation & Visualisation:
 
 | Conda | Jupyter | Spark | SQLite | Matpltlib | seaborn | BI | ggplot2 |
