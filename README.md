@@ -37,9 +37,9 @@ In today's rapidly evolving workplace landscape, the intersection of Human Resou
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/> |<img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" title="Seaborn" alt="seaborn" width="55" height="55"/> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" title="Power BI" alt="Power BI" width="55" height="55"/> |<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Ggplot2_hex_logo.png" title="ggplot2" alt="ggplot2" width="55" height="55"/> |<img 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Patipat-Panyasukum&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Patipat-Panyasukum&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patipat-Panyasukum&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Patipat-Panyasukum&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Patipat-Panyasukum&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patipat-Panyasukum&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Patipat-Panyasukum&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
@@ -47,7 +47,7 @@ In today's rapidly evolving workplace landscape, the intersection of Human Resou
 [![trophy](https://github-profile-trophy.vercel.app/?username=Patipat-Panyasukum&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Patipat-Panyasukum&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Patipat-Panyasukum&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ### Socials:
 <p align="left"> <a href="https://www.github.com/Patipat-Panyasukum" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Patipat Panyasukum" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
