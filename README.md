@@ -1,5 +1,5 @@
 # Hi My name is Patipat Panyasukum (Heng)
-## HR Analyst | Data Scientist
+## HR Data Analyst | HR Data Scientist
 
 ### About Me:    
 
